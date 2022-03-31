@@ -1,0 +1,7 @@
+.delete {
+  color: red;
+}
+
+select {
+  border: 1px solid rgba(0, 0, 0, 0.125);
+}
